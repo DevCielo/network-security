@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/cielonicolosi/Documents/dev/projects/MLOps/NetworkSecurity/mlruns/0/284bae980d3d49868d94ca93af689684/artifacts
+end_time: 1733519623320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 284bae980d3d49868d94ca93af689684
+run_name: debonair-asp-971
+run_uuid: 284bae980d3d49868d94ca93af689684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733519622221
+status: 3
+tags: []
+user_id: cielonicolosi

@@ -1,0 +1,6 @@
+[ 2024-12-07 13:56:30,521 ] 1027 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-07 13:56:30,524 ] 107 dagshub - INFO - Accessing as nicolosicielo
+[ 2024-12-07 13:56:30,857 ] 1027 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/nicolosicielo/network-security "HTTP/1.1 200 OK"
+[ 2024-12-07 13:56:31,161 ] 1027 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-12-07 13:56:31,162 ] 107 dagshub - INFO - Initialized MLflow to track repo "nicolosicielo/network-security"
+[ 2024-12-07 13:56:31,162 ] 107 dagshub - INFO - Repository nicolosicielo/network-security initialized!
